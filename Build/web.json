@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "360pic",
+"productName": "AptShow",
 "dataUrl": "web.data.unityweb",
 "wasmCodeUrl": "web.wasm.code.unityweb",
 "wasmFrameworkUrl": "web.wasm.framework.unityweb",
